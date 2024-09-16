@@ -1,8 +1,11 @@
 let index = 0;
+let selectedLanguage = "ru";
 const totalWorkItems = $(".work-item").length;
 
 $(window).on("load", function () {
   $(".preloader").addClass("loaded");
+  // Load English as the default language if no other language is selected
+  loadLanguageFile(selectedLanguage);
 });
 
 $(document).ready(function () {
@@ -97,7 +100,7 @@ $(document).ready(function () {
   });
     // Listen for changes in the language selector
     $("#language-select").change(function(event) {
-    const selectedLanguage = event.target.value;
+    selectedLanguage = event.target.value;
     loadLanguageFile(selectedLanguage);
   });
 

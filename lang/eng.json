@@ -5,24 +5,29 @@
     "Services": "Services",
     "Portfolio": "Portfolio",
     "Contact": "Contact",
-    "I'm Juls": "I'm Juls",
-    "Brows and Eyes Specialist": "Brows and Eyes Specialist",
-    "About me:": "About me:",
-    "about_me.intro": "My name is JULS.",
-    "about_me.0": "I will create a good mood for your Brows and Lashes",
-    "about_me.1": "Eyebrow Architecture",
-    "about_me.2": "Eyebrow Coloring, Henna",
-    "about_me.3": "Lamination of Eyebrows and Eyelashes",
-    "Contact Me": "Contact Me",
-    "For Your Service": "For Your Service",
-    "Eyebrow Architecture": "Eyebrow Architecture",
-    "Eyebrow Coloring": "Eyebrow Coloring",
-    "Lamination": "Lamination",
-    "Name": "Name",
-    "Email or Phone": "Email or Phone",
-    "Message": "Message",
+    "I'm Juls": "Piano and Grand Piano Repair and Tuning",
+    "Brows and Eyes Specialist": "PIANO TUNING FOR PLAYING AND MUSIC PRACTICE",
+    "About me:": "About Me",
+    
+    "about_me.intro": "My name is Peter.",
+    "about_me.0": " Master piano tuner of high qualification. 35 years of experience.",
+    "about_me.1": " Piano and grand piano tuning",
+    "about_me.2": " Repair, regulation, intonation. String replacement, tuning pins, reinforcement",
+    "about_me.3": " Restoration of any complexity",
+    
+    "Contact Me": "Contact Us",
+    "For Your Service": "At Your Service",
+    "Eyebrow Architecture": "Piano and Grand Piano Tuning",
+    "Eyebrow Coloring": "Repair, regulation, intonation",
+    "Lamination": "Restoration of any complexity",
+    
+    "Name": "Your Name:",
+    "Email or Phone": "Your Email or Phone Number:",
+    "Message": "Your Message:",
     "Send Message": "Send Message",
+    
     "Address": "Address",
-    "Phone": "Phone",
-    "Email": "Email"
-    }
+    "Phone": "Mobile Phone",
+    "Email": "Email",
+    "Whatsapp": "Contact via WhatsApp"
+}
