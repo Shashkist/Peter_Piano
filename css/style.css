@@ -221,10 +221,10 @@ body{
 
 /* home section */
  .home-section{
- 	min-height: 100vh;
- 	background-image: url('../img/background.webp');
+ 	min-height: 10vh;
+ 	background-image: url('../img/background2.jpg');
  	background-size: cover;
- 	background-position: top;
+ 	background-position: center;
  	position: relative;
  	z-index: 1;
  	padding:0 15px;
@@ -265,7 +265,7 @@ body{
 	margin:0;
 }
 .home-section .home-content h1{
-	font-size: 60px;
+	font-size: 40px;
 	margin:0;
 	color:#ffffff;
 	text-transform: uppercase;

@@ -3,16 +3,16 @@
     "Home": "Home",
     "About": "About",
     "Services": "Services",
-    "Portfolio": "Portfolio",
+    "Portfolio": "Photos",
     "Contact": "Contact",
     "I'm Juls": "Piano and Grand Piano Repair and Tuning",
     "Brows and Eyes Specialist": "PIANO TUNING FOR PLAYING AND MUSIC PRACTICE",
     "About me:": "About Me",
     
-    "about_me.intro": "My name is Peter.",
-    "about_me.0": " Master piano tuner of high qualification. 35 years of experience.",
-    "about_me.1": " Piano and grand piano tuning",
-    "about_me.2": " Repair, regulation, intonation. String replacement, tuning pins, reinforcement",
+    "about_me.intro": "My name is Peter Pomerants.",
+    "about_me.0": " Piano tuner of high qualification. ",
+    "about_me.1": " 40 years of experience.",
+    "about_me.2": " All types of work in the field of piano repair and tuning",
     "about_me.3": " Restoration of any complexity",
     
     "Contact Me": "Contact Us",
@@ -29,5 +29,9 @@
     "Address": "Address",
     "Phone": "Mobile Phone",
     "Email": "Email",
-    "Whatsapp": "Contact via WhatsApp"
+    "Whatsapp": "Contact via WhatsApp",
+
+    "center": "mirkaz",
+    "south": "darom",
+    "shfela": "shfela"
 }
