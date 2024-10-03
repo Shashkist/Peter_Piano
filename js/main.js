@@ -152,9 +152,9 @@ function sendEmail() {
     Host: "smtp.elasticemail.com",
     Username: "shashkist@gmail.com",
     Password: "409396BBF558BEBC6B7E6D8F8A113F2A69B7",
-    To: "shashkist@gmail.com", // Changed recipient email
+    To: "pompet1959@gmail.com", // Changed recipient email
     From: "shashkist@gmail.com", // Changed sender email
-    Subject: `the message from  ${name}:  ${emailOrPhone}`, // Changed subject
+    Subject: `PIANO_WEBSITE : the message from  ${name}:  ${emailOrPhone}`, // Changed subject
     // Port: 465, // Added port number
     // Secure: true, // Added to enable SSL
     Body: `<html><h2>Sender name is : ${name}</h2><strong>The message:</strong><br></br><em>${message}</em></html>`,
